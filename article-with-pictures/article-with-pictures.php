@@ -3,7 +3,7 @@
  * Plugin Name:文章配图
  * Plugin URI:https://www.ggdoc.cn/plugin/3.html
  * Description:如果文章没有缩略图，可以通过本插件自动给文章生成缩略图，同时支持在文章内容页显示缩略图。
- * Version:0.0.5
+ * Version:0.0.6
  * Requires at least: 5.0
  * Requires PHP:5.3
  * Author:果果开发
