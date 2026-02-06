@@ -4,7 +4,7 @@ Donate link: https://www.ggdoc.cn
 Tags:文章图片, 配图, 文章配图, 缩略图, 标题转图
 Requires at least: 5.0
 Requires PHP:5.3
-Tested up to: 6.8
+Tested up to: 6.9
 Stable tag: 0.0.6
 License: GNU General Public License v2.0 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
